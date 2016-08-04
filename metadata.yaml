@@ -1,0 +1,24 @@
+_repo: The-Story-of-Wellesley_2362
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Converse, Florence
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '877'
+    url: http://www.gutenberg.org/2009/agents/877
+description: ''
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LD'
+- !lcsh 'Wellesley College'
+- GITenberg
+title: The Story of Wellesley
+url: http://www.gutenberg.org/ebooks/2362
